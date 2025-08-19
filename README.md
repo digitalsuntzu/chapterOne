@@ -72,4 +72,6 @@ git push -u origin main
 The -u flag sets the upstream branch, so you only have to type git push for subsequent pushes.
 
 
-Bronnen
+You can run the app by running in the main directory: python app.py
+
+
